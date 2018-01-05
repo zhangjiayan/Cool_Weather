@@ -4,7 +4,6 @@
   <list>
       <mapping class="com.example.dell.cool_weather.db.City"/>
       <mapping class="com.example.dell.cool_weather.db.Province"/>
-
       <mapping class="com.example.dell.cool_weather.db.County"/>
 
   </list>
